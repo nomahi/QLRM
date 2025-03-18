@@ -12,4 +12,4 @@ Modified Poisson and least-squares regression analyses for binary outcomes have 
 
 Please download "QLRM_1.1-1.tar.gz" and install it by R menu: "packages" -> "Install package(s) from local files...".
 
-Download: [please click this link](https://github.com/nomahi/rqlm/raw/main/QLRM_1.1-1.tar.gz)
+Download: [please click this link](https://github.com/nomahi/QLRM/raw/main/QLRM_1.1-1.tar.gz)
